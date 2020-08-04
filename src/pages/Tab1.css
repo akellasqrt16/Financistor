@@ -1,0 +1,16 @@
+ion-content{
+
+    --ion-background-color: #e5fcfa
+}
+
+ion-item {
+    height: 100px;
+}
+ion-card{
+
+    --ion-background-color:  #ffffff
+}
+ion-header{
+
+    --ion-background-color:  #fcf5e5
+}
