@@ -1,0 +1,14 @@
+ion-toggle {
+    --background: #fcf5e5;
+  
+    --handle-background: #ffffff;
+    
+    width: 40px;
+
+    height: 15px;
+
+  }
+
+ion-label {
+    height: 40px;
+}
