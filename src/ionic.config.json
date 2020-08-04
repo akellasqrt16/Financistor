@@ -1,0 +1,7 @@
+{
+  "name": "financistor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
